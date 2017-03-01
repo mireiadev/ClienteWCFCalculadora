@@ -12,6 +12,7 @@ using System.ServiceModel;
 
 namespace ClienteWCFCalculadora
 {
+
     public partial class Form1 : Form
     {
         ServicioCalculadoraClient client;
